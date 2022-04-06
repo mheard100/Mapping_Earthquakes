@@ -14,3 +14,4 @@ Add the folders and files by typing: git add .
 Confirm the correct files will be added by typing: git status
 Commit the changes by typing: git commit -m
 Push the changes to the branch by typing: git push --set-upstream origin Mapping_Single_Points
+Only have to do the above push the first time
